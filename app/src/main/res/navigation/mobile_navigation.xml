@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="leandro.caixeta.relftgoals.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="leandro.caixeta.relftgoals.ui.home.HomeSecondFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/menu_perfil"
+        android:name="leandro.caixeta.relftgoals.ui.perfil.perfil"
+        android:label="@string/menu_perfil"
+        tools:layout="@layout/fragment_perfil" />
+
+    <fragment
+        android:id="@+id/menu_relatorio"
+        android:name="leandro.caixeta.relftgoals.ui.relatorios.relatorios"
+        android:label="@string/menu_rel"
+        tools:layout="@layout/fragment_relatorios"/>
+
+
+    <fragment
+        android:label="@string/menu_visao_geral"
+        android:id="@+id/menu_visao_geral"
+        android:name="leandro.caixeta.relftgoals.ui.visao_geral.visao_geral"
+        tools:layout="@layout/fragment_visao_geral"
+        />
+    <fragment
+        android:label="@string/menu_beckup"
+        android:id="@+id/menu_beckup"
+        android:name="leandro.caixeta.relftgoals.ui.beckup.beckup"
+        tools:layout="@layout/fragment_beckup"
+        />
+
+    <fragment
+        android:id="@+id/menu_sobre"
+        android:name="leandro.caixeta.relftgoals.ui.sobre.sobre"
+        android:label="@string/menu_sobre_title"
+        tools:layout="@layout/fragment_sobre" />
+
+    <fragment
+        android:id="@+id/menu_contato"
+        android:name="leandro.caixeta.relftgoals.ui.contato.contato"
+        android:label="@string/menu_contato_title"
+        tools:layout="@layout/fragment_contato" />
+
+    <fragment
+        android:id="@+id/menu_termo_uso"
+        android:name="leandro.caixeta.relftgoals.ui.termos.termos"
+        android:label="@string/meu_termos_uso"
+        tools:layout="@layout/fragment_termos"/>
+
+
+    <fragment
+        android:id="@+id/menu_sair"
+        android:name="leandro.caixeta.relftgoals.ui.sair.sair"
+       />
+
+</navigation>

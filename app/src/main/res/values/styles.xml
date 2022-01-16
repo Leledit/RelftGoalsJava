@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.DayNight.ActionBar" />
+
+
+    <style name="dialog_cadatro_tarefa" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="colorAccent">@android:color/black</item>                   <!--header background-->
+        <item name="android:windowBackground">@color/PDC_branco_preto</item>     <!--calendar background-->
+        <item name="android:colorControlActivated"> @color/PDC_verde_cinza</item> <!--selected day-->
+        <item name="android:textColorPrimary">@color/PDC_cinza_escuro</item> <!--days of the month-->
+        <item name="android:textColorSecondary">@color/PDC_cinza_escuro</item>    <!--days of the week-->
+    </style>
+
+    <style name="dialog_finalizar_Tarefa" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="colorAccent">@color/PDC_verde_preto</item>
+        <item name="android:windowBackground">@color/PDC_verde</item>
+
+</style>
+
+</resources>

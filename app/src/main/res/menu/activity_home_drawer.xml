@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/menu_perfil"
+            android:icon="@drawable/ic_perfil"
+            android:title="@string/menu_perfil" />
+        <item
+            android:id="@+id/menu_relatorio"
+            android:icon="@drawable/ic_relatorio"
+            android:title="@string/menu_rel" />
+        <item
+            android:id="@+id/menu_visao_geral"
+            android:icon="@drawable/ic_olho"
+            android:title="@string/menu_visao_geral" />
+        <item
+            android:id="@+id/menu_beckup"
+            android:icon="@drawable/nuvem"
+            android:title="@string/menu_beckup" />
+    </group>
+
+
+
+    <item android:title="Sobre o app" >
+        <menu>
+
+            <group >
+                <item
+                    android:id="@+id/menu_sobre"
+                    android:icon="@drawable/ic_sobre"
+                    android:title="@string/menu_sobre" />
+                <item
+                android:id="@+id/menu_contato"
+                android:icon="@drawable/ic_contat"
+                android:title="@string/menu_contato" />
+
+                <item
+                    android:id="@+id/menu_termo_uso"
+                    android:icon="@drawable/ic_termos"
+                    android:title="@string/menu_termos_uso" />
+
+                <item
+                    android:id="@+id/menu_sair"
+                    android:icon="@drawable/ic_sair"
+                    android:title="@string/menu_sair" />
+            </group>
+        </menu>
+    </item>
+</menu>

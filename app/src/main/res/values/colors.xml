@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DCFFD8</color>
+    <color name="colorPrimaryDark">#9FB89C</color>
+    <color name="colorAccent">#DCFFD8</color>
+
+    <color name="PDC_verde">#DCFFD8</color>
+    <color name="PDC_verde_claro">#EAFDE8</color>
+    <color name="PDC_verde_cinza">#9FB89C</color>
+    <color name="PDC_verde_preto">#748572</color>
+    <color name="PDC_cinza">#454545</color>
+    <color name="PDC_cinza_claro">#C5C5C5</color>
+    <color name="PDC_cinza_claro_mais">#E6F0F0F0</color>
+
+    <color name="PDC_azul">#9FCCFF</color>
+    <color name="PDC_cinza_escuro">#303030</color>
+
+    <color name="PDC_Priorit_Tarefas_Muito_alto">#B3FF0000</color>
+    <color name="PDC_Priorit_Tarefas_alto">#DFA700</color>
+    <color name="PDC_Priorit_Tarefas_Medio">#B30088FF</color>
+    <color name="PDC_Priorit_Tarefas_Baixo">#7521FF00</color>
+
+    <color name="PDC_cinza_bem_claro">#99FFFEFE</color>
+    <color name="PDC_branco_preto">#E6FFFFFF</color>
+
+</resources>

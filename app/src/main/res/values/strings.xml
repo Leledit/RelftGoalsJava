@@ -1,0 +1,183 @@
+<resources>
+
+
+    <string name="app_name">Relft goals</string>
+    <string name="Menu_app">Seu app de todo dia :)</string>
+    <string name="Menu_app_email">relft_goals@outlook.com</string>
+
+    <string name="Mensagen_incial"> Esse aplicativo foi desenvolvido com o intuito de ajudar as pessoas a organizarem suas tarefas diárias , assim cumprindo com suas respectivas finalidades. Para usa-lo é necessário possuir uma conta, você já possui uma?
+</string>
+    <string name="Sim">Sim</string>
+    <string name="Nao">Não</string>
+    <string name="Cadastre_se">Cadastre-se</string>
+    <string name="Nome">Nome</string>
+    <string name="Nome_entre">Entre com o seu nome</string>
+    <string name="DataNacimento">Data de nascimento</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Email">E-mail</string>
+    <string name="Email_entre">Entre com o seu e-mail</string>
+    <string name="Senha">Senha</string>
+    <string name="Senha_entre">Entre com a sua senha</string>
+    <string name="Confirmar_senha">Confirmar senha</string>
+    <string name="Confirmar_senha_entre">Entre com a sua senha novamente</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Proximo">Próximo</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="login_n_conta">Não possui uma conta ?</string>
+    <string name="Login_cadastre">Cadastre-se !!!</string>
+    <string name="login_realizar">Realizar login </string>
+    <string name="login_esqueci_senha">Esqueci a senha</string>
+    <string name="Info">Informações</string>
+
+
+    <string name="menu_home">Tarefas Diárias</string>
+
+    <string name="menu_perfil_nome">Nome:</string>
+    <string name="menu_perfil_data">Data nascimento:</string>
+    <string name="menu_perfil_email">Email:</string>
+    <string name="menu_perfil_senha">Senha:</string>
+
+    <string name="menu_sair">Sair</string>
+
+    <string name="menu_beckup">backup</string>
+    <string name="menu_beckup_titulo">Opções de nuvem</string>
+    <string name="menu_beckup_informativo_func">A opção "beckup" permite que o usuário salve todas as suas tarefas em um banco online, onde essas ficarão armazenadas até que ele decida baixa-las novamente com a opção "Download". </string>
+    <string name="menu_beckup_informativo_obs">Caso seja selecionado a opção "beckup" e o usuário já possuir tarefas armazenadas no servidor, será exibido uma mensagem na tela pedindo permissão para substituir essas pelas que estão atualmente no celular do usuário. </string>
+    <string name="menu_beckup_informativo_obs_dowload">Caso seja selecionado a opção "Download" e o usuário já possuir tarefas armazenadas dentro do seu celular, será exibido uma mensagem na tela pedindo permissão para substituir essas pelas que estão atualmente no servidor online. </string>
+    <string name="menu_beckup_informativo_recomedacao">Essas opções são perfeitas para usuários que precisam formatar o seu celular e nao gostariam de perder as suas tarefas. </string>
+
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_sobre_title">Sobre o aplicativo</string>
+    <string name="fragment_sobre_introd">Esse aplicativo foi desenvolvido  com a finalidade de auxiliar pessoas a conseguirem realizar suas tarefas diárias, organizando de forma fácil e rápida cada compromisso e priorizando aquilo que é mais importante. </string>
+    <string name="fragment_sobre_titulo_desevolv">Desenvolvedores </string>
+    <string name="fragmente_sobre_name_desevolv">Leandro Caixeta </string>
+    <string name="fragmente_sobre_name_denner">Denner Franzoni</string>
+    <string name="fragmente_sobre_formacao_desevolv">Formação Profisional</string>
+    <string name="fragmente_sobre_formacao_desevolv_tecnico">Técnico em informática pela ETEC João Baptista de Lima Figueiredo</string>
+    <string name="fragmente_sobre_formacao_desevolv_faculdade"> Tecnólogo em Análise e Desenvolvimento de Sistema pela Faculdade de Tecnologia de Mococa (Fatec Mococa)  </string>
+
+    <string name="menu_contato">Contato</string>
+    <string name="menu_contato_title">Contate-nos</string>
+    <string name="fragment_contato_mensagem">Olá, bem vindo a página de contato!!! Aqui pode ser encontrada diversas formas de entrar em contato conosco, fique a vontande para nos enviar sugestões, críticas , avisar sobre erros e até pedir novos recursos para serem adicionados em versões futuras. </string>
+    <string name="fragment_contato_title_formas_contat">Formas de contato</string>
+    <string name="fragment_contato_form_contat_email">Email:</string>
+    <string name="fragment_contato_form_contat_email_email">Leandro_ricardo99@outlook.com</string>
+    <string name="fragment_contato_form_contat_email_Denner">denner.franzoni@fatec.sp.gov.br</string>
+    <string name="fragment_contato_form_contat_celular">Celular</string>
+    <string name="fragment_contato_form_contat_celular_celular">(19) 992406282</string>
+    <string name="fragment_contato_form_contat_celular_celular_denner">(19) 99657-3576</string>
+    <string name="fragment_contato_form_contat_redes_sociais">Redes sociais</string>
+    <string name="fragment_contato_form_contat_redes_sociais_facebook">Facebook: Leandro Caixeta</string>
+    <string name="fragment_contato_form_contat_redes_sociais_linkedin">Linkedin: Leandro Caixeta</string>
+    <string name="fragment_contato_form_contat_mensage_enviar">Enviar Mensagem</string>
+    <string name="contat_forme_title">Enviar Mensagem</string>
+    <string name="contat_form_nome">Nome</string>
+    <string name="contat_form_tipo">Tipo de mensagem: </string>
+    <string name="contat_form_assunto">Assunto:</string>
+    <string name="contat_form_assunto_solic">Entre com o assunto da mensagem</string>
+    <string name="contat_form_email">E-mail</string>
+    <string name="contat_form_mensagem">Mensagem:</string>
+    <string name="contat_form_mensagem_solic">Entre com a mensagem</string>
+    <string name="contat_btn_enviar">Enviar </string>
+    <string name="contat_enviar_msn">Enviar mensagem</string>
+    <array name="contat_tipo">
+        <item>Sugestões</item>
+        <item>Críticas</item>
+        <item>Reporte de erros</item>
+        <item>Solicitar novos recursos</item>
+        <item>Outros</item>
+    </array>
+
+
+    <string name="meu_termos_uso">Termos de uso</string>
+
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_perfil_info_pessoais">Informações pessoais </string>
+    <string name="menu_perfil_infor_acesso">Informações de acesso</string>
+    <string name="menu_perfil_infor_senha_val">*********</string>
+
+    <string name="menu_rel">Relatórios</string>
+    <string name="menu_rel_qtdcadastro">Tarefas Cadastradas:</string>
+    <string name="menu_rel_qtdExpiradas">Tarefas Expiradas:</string>
+    <string name="menu_rel_qtdFinalizada">Tarefas Finalizadas:</string>
+    <string name="menu_rel_qtdAtivas">Tarefas Ativas: </string>
+    <string name="menu_rel_qtdExcluidas">Terefas Excluidas:</string>
+
+
+    <string name="menu_visao_geral">Visão geral</string>
+    <string name="menu_visao_geral_info">Informativo</string>
+    <string name="menu_visao_geral_titulo">Listar por periodo </string>
+    <string name="menu_visao_geral_texto1">Ao clicar no (1)  será exibido todas as tarefas para o dia de hoje.</string>
+    <string name="menu_visao_geral_texto2">Ao clicar no (7)  será exibido todas as tarefas para a semana corrente. </string>
+    <string name="menu_visao_geral_texto3">Ao clicar no (30) será exibido todas as tarefas para o mês atual. </string>
+    <string name="menu_visao_geral_texto4">Ao clicar no (365) será exibido todas as tarefas para o ano. </string>
+
+
+    <string name="menu_termos_uso">Termos de uso</string>
+    <string name="menu_termos_uso_titulo">Termos de uso do app</string>
+    <string name="menu_termos_uso_termo">Para os fins destes Termos e condições de Uso, as designações abaixo terão os seguintes significados:
+        Usuário(s): a pessoa física, maior de idade, ou jurídica, por intermédio de representante legal devidamente habilitado,
+        com plena capacidade de contratar, que acessa a plataforma Relft Goals e realiza o seu cadastro pessoal de modo a
+        usufruir das funcionalidades oferecidas pela plataforma/aplicativo Relft Goals, aceitando, nessa oportunidade,
+        incondicionalmente, os presentes Termos de Uso e a Política de Privacidade. Plataforma ou Plataforma/Aplicativo
+        Relft Goals: o aplicativo da Relft Goals desenvolvido para operação em smartphone que tenha o sistema operacional
+        IOS ou Android, nas versões mínimas, com banco de dados integrados além do servidor na nuvem, e com acesso à internet
+        banda larga (3G ou 4G). Relft Goals: é um sistemas de ferramentas de organizações de atividades desenvolvido pela
+        companhia RICARDO CAIXETA SOLUÇÕES EM TI S.A., pessoa jurídica de direito privado, com sede na cidade de Mococa,
+        estado de São Paulo. Na Rua João Batista de Carvalho, nº xxxx, Bairro Projeto Cem, CEP 13732-670. Dados Pessoais:
+        significa todo e qualquer dado disponibilizado pelo Usuário que, de alguma forma, o identifique, como,
+        exemplificativamente, nome, endereço, CPF, número de telefone, endereço de e-mail, ou quaisquer outras informações.
+        Serviço(s): Todos os serviços postos à disposição do Usuário na plataforma Relft Goals.SAC: Serviço de atendimento
+        ao Usuário/Cliente da plataforma Relft Goals, que poderá ser consultado através do e-mail: ver email.Termos de Uso:
+        Os presentes Termos aplicáveis a todas as compras feitas através da plataforma Relft Goals .Política de Privacidade:
+        significa a política de privacidade que disciplina a utilização dos dados do Usuário, que pode ser encontrada na parte
+        de informações sobre usuário no próprio aplicativo:Aceitar ou Aceite: o ato de o Usuário clicar na caixa “Li e aceito
+        os Termos de Uso e Política de Privacidade”, bem assim, na caixa “Li e aceito os termos do Contrato de Emissão e
+        Utilização do aplicativo Relft Goals” dispostas na plataforma/aplicativo Relft Goals. Tal ato implica consentimento
+        prévio, expresso e informado do Usuário em relação a todo o disposto em tais documentos, autorizando o armazenamento de
+        base de dados composta por Dados Pessoais, entre outras informações.</string>
+    <string name="home_second">Home Second</string>
+
+
+    <string name="CM_tarefa">Adicionando uma nova Tarefa </string>
+    <string name="CM_tarefa_nome">Insira um nome</string>
+    <string name="CM_tarefa_nome_identificador">EX:. levar o cachorro para passear </string>
+    <string name="CM_prazo">Data de término</string>
+    <string name="CM_tarefa_nome_perf">Nome: </string>
+    <string name="CM_tarefa_criada">Criada em:</string>
+    <string name="CM_tarefa_termino">Término em:</string>
+    <string name="Cm_tarefa_status">Status:</string>
+    <string name="Cm_tarefa_prioridade">Prioridade:</string>
+    <string name="Cm_tarefa_categoria">Categoria:</string>
+    <string name="Cm_tarefa_alterar_taref">Alterar Tarefa</string>
+    <string name="Cm_tarefa_restricao">Restrições</string>
+    <string name="Cm_tarefa_finalizar">Finalizar</string>
+
+
+    <string name="CM_prioridade">Defina a prioridade </string>
+    <string name="CM_prioridade_ma">Muito alta</string>
+    <string name="CM_prioirdade_a">Alta</string>
+    <string name="CM_prioridade_m">Média</string>
+    <string name="CM_prioridade_b">Baixa</string>
+    <string name="CM_descricao">Descrição</string>
+    <string name="CM_descricao_inserir">Ex:. leva-lo depois que eu chegar do trabalho </string>
+
+    <string name="CM_categoria">Defina a categoria da Tarefa </string>
+    <string name="CM_categoria_L">Lazer</string>
+    <string name="CM_categoria_T">Trabalho</string>
+    <string name="CM_categoria_E">Escolar</string>
+    <string name="CM_categoria_F">Financeiro</string>
+    <string name="CM_categoria_FA">Familiar</string>
+    <string name="CM_categoria_P">Pessoal</string>
+    <string name="CM_categoria_v">Viagens</string>
+    <string name="CM_categoria_S">Social</string>
+    <string name="CM_categoria_O">Outros</string>
+
+    <string name="CM_adapterTarefa">Dias para encerrar esta tarefa</string>
+    <string name="CM_adapterTarefaFaltam">Faltam </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

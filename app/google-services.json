@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127679079371",
+    "firebase_url": "https://relft-goals-5c93e.firebaseio.com",
+    "project_id": "relft-goals-5c93e",
+    "storage_bucket": "relft-goals-5c93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127679079371:android:cb90f7df30f9fed6208c4e",
+        "android_client_info": {
+          "package_name": "leandro.caixeta.relftgoals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127679079371-g6sdne6vh80t8ab8c3pnlpius69j97rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "leandro.caixeta.relftgoals",
+            "certificate_hash": "319c6f1d20ed8d6ce583f7f005db48827763d571"
+          }
+        },
+        {
+          "client_id": "127679079371-u5g3dsura0h04ne49lrquack37lvjeil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfDDkuT2zVQNXrJYe1LqH3IHrbdbmySI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127679079371-u5g3dsura0h04ne49lrquack37lvjeil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
